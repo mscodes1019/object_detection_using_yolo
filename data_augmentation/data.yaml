@@ -1,0 +1,56 @@
+# names:
+# - ambulance
+# - army vehicle
+# - auto rickshaw
+# - bicycle
+# - bus
+# - car
+# - garbagevan
+# - human hauler
+# - minibus
+# - minivan
+# - motorbike
+# - pickup
+# - policecar
+# - rickshaw
+# - scooter
+# - suv
+# - taxi
+# - three wheelers (CNG)
+# - truck
+# - van
+# - wheelbarrow
+# nc: 21
+# path: ..
+# train: data_yolo/images/train
+# val: data_yolo/images/val
+
+
+
+names:
+  - ambulance
+  - army vehicle
+  - auto rickshaw
+  - bicycle
+  - bus
+  - car
+  - garbagevan
+  - human hauler
+  - minibus
+  - minivan
+  - motorbike
+  - pickup
+  - policecar
+  - rickshaw
+  - scooter
+  - suv
+  - taxi
+  - three wheelers (CNG)
+  - truck
+  - van
+  - wheelbarrow
+
+nc: 21
+
+train: C:/Users/MonsuratAyinde/Desktop/object_detection_with_yolo/data_augmentation/data_yolo/images/train
+val: C:/Users/MonsuratAyinde/Desktop/object_detection_with_yolo/data_augmentation/data_yolo/images/val
